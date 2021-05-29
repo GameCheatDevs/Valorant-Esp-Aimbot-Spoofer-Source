@@ -18,4 +18,4 @@
 * Valorant Antiban = Bypass
 
 # Photo
-![Capture](https://user-images.githubusercontent.com/84600070/119197477-d79b3300-ba98-11eb-9df8-2549e80677fa.PNG)
+![image](https://user-images.githubusercontent.com/85020134/120069271-ad93d300-c08d-11eb-8ff0-18182cc95b9a.png)
